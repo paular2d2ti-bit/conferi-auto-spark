@@ -102,7 +102,7 @@ export function PainSection() {
       <div className="w-full bg-white py-12 border-y border-[#F5F7F8]">
         <div className="mx-auto max-w-[1440px] px-8 md:px-12 lg:px-24">
           <p className="text-[#031426]/20 text-[32px] md:text-[48px] lg:text-[64px] font-black tracking-[-0.04em] text-center leading-none uppercase select-none">
-            O QUE VOCÊ PRECISA SABER ANTES?
+            A AUTO PERÍCIA PLUS ACRESCENTA INFORMAÇÃO
           </p>
         </div>
       </div>
