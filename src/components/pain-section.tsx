@@ -39,7 +39,7 @@ export function PainSection() {
         <div className="max-w-4xl mx-auto text-center mb-8 md:mb-12">
           <div className="inline-flex items-center gap-2 mb-4 animate-fade-in">
             <span className="text-[#00A99D] text-[10px] sm:text-[12px] font-bold tracking-[0.2em] uppercase">
-              EM CADA ETAPA, UMA DECISÃO
+              MAIS INFORMAÇÃO EM CADA VISTORIA
             </span>
           </div>
           
