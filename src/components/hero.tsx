@@ -25,7 +25,7 @@ export function Hero() {
               </h1>
 
               <p className="mt-8 text-[16px] md:text-[18px] text-white/70 leading-[1.6] max-w-[480px]">
-                Complemente seus laudos com informações veiculares que ajudam sua empresa a entregar uma análise mais completa, profissional e confiável.
+                Complemente seus laudos com informações veiculares e entregue ao cliente uma análise mais completa e profissional, com relatório personalizado com a marca da sua empresa.
               </p>
               
               <div className="mt-8 md:mt-10 flex flex-col items-start gap-10 md:gap-16">
@@ -35,7 +35,7 @@ export function Hero() {
                 </a>
                 
                 <div className="text-white/80 text-[14px] md:text-[16px] font-medium leading-relaxed italic border-l-2 border-[#22E38A] pl-4">
-                  Mais informação para sua empresa. Mais segurança para seu cliente.
+                  Mais informação para complementar sua vistoria. Mais valor na entrega ao seu cliente.
                 </div>
               </div>
             </div>
