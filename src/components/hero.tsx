@@ -20,28 +20,22 @@ export function Hero() {
           <div className="relative z-10 flex w-full flex-col justify-center px-6 py-20 lg:py-0 lg:px-16 lg:pl-[80px]">
             <div className="max-w-[540px] w-full">
               
-              <h1 className="text-[34px] sm:text-[42px] md:text-[52px] font-bold leading-[1.1] md:leading-[1.05] tracking-[-0.03em] text-white">
-                Vai colocar esse carro no estoque? Consulte antes de comprar.
+              <h1 className="text-[34px] sm:text-[42px] md:text-[52px] font-bold leading-[1.1] md:leading-[1.05] tracking-[-0.03em] text-white uppercase">
+                VÁ ALÉM DO VISUAL NA SUA VISTORIA.
               </h1>
 
               <p className="mt-8 text-[16px] md:text-[18px] text-white/70 leading-[1.6] max-w-[480px]">
-                Descubra informações que podem mudar sua decisão antes de comprar, aceitar uma troca ou negociar um veículo.
+                Complemente seus laudos com informações veiculares que ajudam sua empresa a entregar uma análise mais completa, profissional e confiável.
               </p>
               
               <div className="mt-8 md:mt-10 flex flex-col items-start gap-10 md:gap-16">
-                <a href="https://api.whatsapp.com/send/?phone=5511952267192&text&type=phone_number&app_absent=0" target="_blank" rel="noopener noreferrer" className="h-[56px] md:h-[60px] w-full md:w-auto rounded-[12px] bg-[#22E38A] px-[32px] md:px-[40px] text-[15px] md:text-[16px] font-bold text-[#031426] transition-all hover:brightness-110 active:scale-[0.98] shadow-xl shadow-[#22E38A]/20 flex items-center justify-center gap-3 group">
-                  Quero conhecer a Auto Perícia Gold
+                <a href="https://api.whatsapp.com/send/?phone=5511952267192&text&type=phone_number&app_absent=0" target="_blank" rel="noopener noreferrer" className="h-[56px] md:h-[60px] w-full md:w-auto rounded-[12px] bg-[#22E38A] px-[32px] md:px-[40px] text-[15px] md:text-[16px] font-bold text-[#031426] transition-all hover:brightness-110 active:scale-[0.98] shadow-xl shadow-[#22E38A]/20 flex items-center justify-center gap-3 group uppercase">
+                  CONHEÇA A AUTO PERÍCIA PLUS
                   <ArrowRight className="h-5 w-5 transition-transform group-hover:translate-x-1" />
                 </a>
                 
-                <div className="flex flex-wrap items-center gap-y-3 gap-x-4 text-white text-[12px] md:text-[14px] font-black tracking-[0.2em] md:tracking-[0.25em] uppercase px-1 z-20">
-                  <span>Compra</span>
-                  <span className="w-1.5 h-1.5 rounded-full bg-[#22E38A] shadow-[0_0_10px_#22E38A]"></span>
-                  <span>Troca</span>
-                  <span className="w-1.5 h-1.5 rounded-full bg-[#22E38A] shadow-[0_0_10px_#22E38A]"></span>
-                  <span>Avaliação</span>
-                  <span className="w-1.5 h-1.5 rounded-full bg-[#22E38A] shadow-[0_0_10px_#22E38A]"></span>
-                  <span>Estoque</span>
+                <div className="text-white/80 text-[14px] md:text-[16px] font-medium leading-relaxed italic border-l-2 border-[#22E38A] pl-4">
+                  Mais informação para sua empresa. Mais segurança para seu cliente.
                 </div>
               </div>
             </div>
