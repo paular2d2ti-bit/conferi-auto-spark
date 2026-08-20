@@ -43,12 +43,12 @@ export function PainSection() {
             </span>
           </div>
           
-          <h2 className="text-[#031426] text-[32px] sm:text-[40px] md:text-[56px] lg:text-[68px] leading-[1.1] font-bold tracking-[-0.04em] mb-6 px-2">
-            Da avaliação à entrada no estoque,<br className="hidden md:block" /> informação muda a decisão.
+          <h2 className="text-[#031426] text-[32px] sm:text-[40px] md:text-[56px] lg:text-[68px] leading-[1.1] font-bold tracking-[-0.04em] mb-6 px-2 uppercase">
+            MAIS INFORMAÇÃO EM CADA VISTORIA.
           </h2>
           
           <p className="text-[#1D252D]/70 text-[17px] md:text-[21px] leading-relaxed max-w-3xl mx-auto font-medium px-4">
-            A Auto Perícia Gold, da Company Conferi, entra nos momentos em que sua loja precisa decidir se vale a pena comprar, aceitar, avaliar ou colocar um veículo no estoque.
+            A análise física mostra o estado atual do veículo. A Auto Perícia Plus complementa esse trabalho com informações que ajudam sua empresa a entregar um laudo ainda mais completo.
           </p>
         </div>
 
