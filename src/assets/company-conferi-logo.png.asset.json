@@ -1,11 +1,11 @@
 {
-  "version": 1,
   "asset_id": "cb232d81-bfff-48d5-a23f-196e6855612f",
-  "project_id": "a8b27dff-68a1-4b29-a219-cc680114a19e",
-  "url": "/__l5e/assets-v1/cb232d81-bfff-48d5-a23f-196e6855612f/company-conferi-logo.png",
-  "r2_key": "a/v1/a8b27dff-68a1-4b29-a219-cc680114a19e/cb232d81-bfff-48d5-a23f-196e6855612f/company-conferi-logo.png",
-  "original_filename": "company-conferi-logo.png",
-  "size": 13915,
   "content_type": "image/png",
-  "created_at": "2026-08-13T18:16:20Z"
+  "created_at": "2026-08-13T18:16:20Z",
+  "original_filename": "company-conferi-logo.png",
+  "project_id": "f1b635c3-d26f-40e8-96f9-f70489c3684b",
+  "r2_key": "a/v1/f1b635c3-d26f-40e8-96f9-f70489c3684b/cb232d81-bfff-48d5-a23f-196e6855612f/company-conferi-logo.png",
+  "size": 13915,
+  "url": "/__l5e/assets-v1/cb232d81-bfff-48d5-a23f-196e6855612f/company-conferi-logo.png",
+  "version": 1
 }
