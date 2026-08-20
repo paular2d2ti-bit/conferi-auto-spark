@@ -4,30 +4,30 @@ export function PainSection() {
   const steps = [
     {
       number: "01",
-      title: "COMPRA",
-      question: "Vale a pena comprar esse carro?",
-      desc: "Consulte antes de colocar dinheiro no veículo.",
+      title: "ALÉM DO VISUAL",
+      question: "",
+      desc: "Consulte informações que não podem ser identificadas apenas durante a inspeção física do veículo.",
       delay: "0s"
     },
     {
       number: "02",
-      title: "TROCA",
-      question: "Vale a pena aceitar esse carro no negócio?",
-      desc: "Tenha mais informação antes de definir a entrada.",
+      title: "HISTÓRICO VEICULAR",
+      question: "",
+      desc: "Acesse dados relevantes para complementar a análise realizada pela sua equipe.",
       delay: "0.15s"
     },
     {
       number: "03",
-      title: "AVALIAÇÃO",
-      question: "Quanto esse veículo realmente vale?",
-      desc: "Use mais informações do histórico para avaliar e negociar com mais critério.",
+      title: "LAUDO COM SUA MARCA",
+      question: "",
+      desc: "Entregue ao cliente um relatório personalizado com a identidade visual da sua empresa.",
       delay: "0.3s"
     },
     {
       number: "04",
-      title: "ESTOQUE",
-      question: "Vale a pena esse carro entrar na sua loja?",
-      desc: "Conheça melhor o veículo antes de ele virar estoque.",
+      title: "MAIS VALOR NA ENTREGA",
+      question: "",
+      desc: "Una sua experiência técnica a mais informações e fortaleça a percepção de profissionalismo do seu serviço.",
       delay: "0.45s"
     }
   ];
