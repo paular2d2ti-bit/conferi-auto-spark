@@ -69,9 +69,11 @@ export function PainSection() {
                 {item.title}
               </h3>
               
-              <p className="text-[#031426] text-[17px] md:text-[19px] font-bold leading-tight mb-3 tracking-tight">
-                {item.question}
-              </p>
+              {item.question && (
+                <p className="text-[#031426] text-[17px] md:text-[19px] font-bold leading-tight mb-3 tracking-tight">
+                  {item.question}
+                </p>
+              )}
               
               <p className="text-[#1D252D]/60 text-[15px] md:text-[16px] leading-relaxed font-medium">
                 {item.desc}
