@@ -1,15 +1,15 @@
-import { ArrowRight, Search, Gavel, DollarSign, FileText, Database, ShieldAlert, CheckCircle2, Info } from "lucide-react";
+import { ArrowRight, Search, Gavel, FileText, Database, ShieldAlert, Info, Car } from "lucide-react";
 import heroCar from "@/assets/hero-showroom-suv.jpg";
 
 export function Hero() {
   const floatingCards = [
-    { label: "Gravames", icon: ShieldAlert },
-    { label: "Leilão", icon: ShieldAlert },
     { label: "Recall", icon: Info },
-    { label: "PRF / RENAINF", icon: Search },
-    { label: "Comunicado de venda", icon: FileText },
-    { label: "Decodificação de chassi", icon: Database },
+    { label: "Gravame", icon: Database },
+    { label: "Leilão", icon: ShieldAlert },
+    { label: "Roubo e Furto", icon: ShieldAlert },
+    { label: "Comunicado de Venda", icon: FileText },
     { label: "Sinistro", icon: Gavel },
+    { label: "Laudo com sua marca", icon: Car },
   ];
 
   return (
