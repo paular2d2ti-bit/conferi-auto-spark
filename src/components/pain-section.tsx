@@ -84,8 +84,8 @@ export function PainSection() {
         <div className="max-w-4xl mx-auto text-center flex flex-col items-center">
           <div className="mb-8 md:mb-10">
             <h3 className="text-[#031426] text-[32px] sm:text-[40px] md:text-[52px] lg:text-[62px] font-bold tracking-tighter animate-fade-in flex flex-col leading-[1.1]">
-              <span>Mais informação antes.</span>
-              <span className="text-[#00A99D]">Decisões melhores depois.</span>
+              <span>Sua vistoria faz a análise.</span>
+              <span className="text-[#00A99D]">A Auto Perícia Plus acrescenta informação.</span>
             </h3>
           </div>
           
